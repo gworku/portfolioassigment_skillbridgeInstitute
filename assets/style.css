@@ -139,3 +139,11 @@ footer {
   width: 100%;
   bottom: 0;
 }
+/* Blockquote Styles */
+blockquote {
+    font-style: italic;
+    text-align: center;
+    margin: 20px 0;
+    color: #555;
+    font-size: 1.1em;
+}
