@@ -34,11 +34,13 @@ personal-profile-website/
 ## Installation and Setup
 
 1. **Clone the Repository**:
+
    ```
    git clone https://github.com/gworku/portfolioassigment_skillbridgeInstitute.git
    ```
 
 2. **Navigate to the Project Directory**:
+
    ```
    cd personal-profile-website
    ```
@@ -63,7 +65,7 @@ personal-profile-website/
 
 **Girma Worku**  
 Full Stack Developer & Data Scientist  
-BSC in Computer Sciences, MSC in Data Sciences  
+BSC in MIS, MSC in Data Science  
 Email: [Your Email]  
 LinkedIn: [Your LinkedIn]  
 GitHub: [Your GitHub]
